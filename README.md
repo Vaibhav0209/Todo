@@ -14,4 +14,5 @@ This project is a Task Management API built using Node.js, Express, and MySQL. I
 - Marks as Done
 - Edit Details 
 - Delete Task
+- View all task
 
